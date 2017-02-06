@@ -14,47 +14,23 @@ At first step we created a problem statement worksheet where we have to come up 
 
 How can ABC bank increase it’s average of Product Per Customer from 1 to 5 in the next 2 years?
 
-
-1. Background :
-
-- Due to increased competition, in last few years, the current average product per customer for ABC Bank in India is 1
-- The Bank is looking at guidance to arrive at a strategy to increase the average product per customer
-
-2. Desired Outcome:
-- Increase in average product per customer, from 1 to 5, in the next 2 years
-- Improved profitable long term customer relationship with bank
-- Increased total revenues, wallet share and product penetration
-
-3. Scope:
-* In scope - 
-Indian Market
-Analyzing overall customer portfolio
-Retain engagement of satisfied customers
-
-* Out of scope -
-Cannibalization effect on existing bank products
-
-4. Constraints :
-Inorganic growth
-Involuntary withdrawal of existing products due to unavoidable reasons
-Regulatory changes in banking
-
-5. Stakeholders :
-
-Sales & Marketing Team of ABC Bank 
-Products Subject Matter Experts.
-
-6. Resources :
-Data available with Bank
-Information gathered through research
-Targeted Interview with stakeholders
-
+Then studied and devided problem according 6 section given below -
+1. Background
+2. Desired Outcom
+3. Scop
+4. Constraints
+5. Stakeholders
+6. Resources
 
 2. Industry Research – Key trends / drivers
 ---
-We had done lot of reasearch t find the trend in the market, different customer segments, customer financial planning lifecycle etc which helped us to prepared MECE (Mutually exclusive and collectively exhuastive) decision tree so that we can address all the root causes and work on the necessary decision tree nodes to come up with solution.
+We had done lot of market reserach and survey to come up with trends and data realted to purchasing trends of customers.
+
 
 3. Decision tree
 ---
 Created detailed decision tree to address all the root causes and solution to overcome them.
+
+Below is the details we had presented as our final project -
+[embd]https://github.com/dattatrayshinde/Problem-Solving-Case-study-PPC-by-Fractal-Analytics/blob/master/Final%20Presentation%20for%20PPC%20Case%20Study.pdf[/embd]
 
