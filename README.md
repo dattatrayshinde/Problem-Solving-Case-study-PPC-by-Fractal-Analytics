@@ -32,6 +32,7 @@ We had done lot of market reserach and survey to come up with trends and data re
 Created detailed decision tree to address all the root causes and solution to overcome them.
 
 Below is the details we had presented as our final project -
-[embed]https://github.com/dattatrayshinde/Problem-Solving-Case-study-PPC-by-Fractal-Analytics/blob/master/Final%20Presentation%20for%20PPC%20Case%20Study.pdf
-[/embed]
+
+[Problem Solving case study PPC.pdf](https://github.com/dattatrayshinde/Problem-Solving-Case-study-PPC-by-Fractal-Analytics/blob/master/Final%20Presentation%20for%20PPC%20Case%20Study.pdf)
+
 
